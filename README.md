@@ -1,4 +1,4 @@
 qt-doc.slackBuild
 =================
 
-Convert original Slackware Qt Slackbuild to add documents and examples yeald
+Add Qt documents in your Slackware and upgrade package file to tell your slackpkg remove this documents when Qt is upgrading.
